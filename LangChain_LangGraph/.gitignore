@@ -1,0 +1,8 @@
+# .gitignore
+config.py
+.env
+**/api_keys.txt
+
+# 기타 민감한 파일들
+__pycache__/
+*.pyc
